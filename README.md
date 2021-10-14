@@ -1,0 +1,34 @@
+# availability-woes
+
+Incidents, high profile or otherwise, where build systems or package installations were impacted due to dependencies being unavailable.
+
+There has been a lot of chatter about `left-pad`'s removal a few years ago, and that's often the cited example for keeping track of dependencies, explicit and transitive. However, it is important to record other similar incidents to improve the integrity of dependency graphs across ecosystems.
+
+## Incidents
+
+These are examples of packages being unavailable that have occurred already.
+
+| Package | Report |
+| ------- | ----- |
+| left-pad | [Report](incidents/left-pad.md) |
+| mimemagic | [Report](incidents/mimemagic.md) |
+| Integer Set Library | [Report](incidents/libisl.md) |
+
+## Things to Watch
+
+These are packages where some yanking is common, or people have faced "localised" issues due to versions being unavailable.
+
+| Package | Report |
+| ------- | ----- |
+| ring | [Report](watch/ring.md)|
+
+## Yank Policies
+
+TODO: these are studies of how popular package repositories handle package yanking.
+
+| Ecosystem | Report |
+| --------- | ------ |
+| Python Packaging Index (PyPI) | [Report](#) |
+| NPM | [Report](#) |
+| crates.io | [Report](#) |
+| Go Modules | [Report](#) |
