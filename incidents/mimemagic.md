@@ -10,3 +10,7 @@ After the developer yanked mimemagic, it broke Ruby on Rails, a popular web deve
 2. Yanking breaks Rails: https://github.com/mimemagicrb/mimemagic/issues/98, archived at https://archive.is/d4PWo
 3. The Register article about original license inconsistency: https://www.theregister.com/2021/03/25/ruby_rails_code/
 4. The Register article about Rails moving to alternative: https://www.theregister.com/2021/03/29/rails_mime_fix/
+
+## Alternative Write Ups
+
+1. ["Dislodging mimemagic And Understanding MIT & GNU GPL." by Emmanuel Hayford](https://emmanuelhayford.com/dislodging-mimemagic-and-understanding-mit-gnu-gpl/)
