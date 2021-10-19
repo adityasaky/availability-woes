@@ -29,6 +29,6 @@ TODO: these are studies of how popular package repositories handle package yanki
 | Ecosystem | Report |
 | --------- | ------ |
 | Python Packaging Index (PyPI) | [Report](repository-policies/pypi.md) |
-| NPM | [Report](#) |
+| NPM | [Report](repository-policies/npm.md) |
 | crates.io | [Report](#) |
 | Go Modules | [Report](#) |
