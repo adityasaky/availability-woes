@@ -32,3 +32,11 @@ TODO: these are studies of how popular package repositories handle package yanki
 | NPM | [Report](#) |
 | crates.io | [Report](#) |
 | Go Modules | [Report](#) |
+
+## Unavailable, but not Dependencies
+
+These are incidents where there _weren't_ dependencies unavailable causing build failures, but other packages becoming unavailable due to one reason or another. It is still important to document them as similar situations may well occur to packages meant to be used as dependencies.
+
+| Package | Report |
+| ------- | ------ |
+| youtube-dl | [Report](incidents/youtube-dl.md)
