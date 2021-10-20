@@ -4,6 +4,8 @@ Incidents, high profile or otherwise, where build systems or package installatio
 
 There has been a lot of chatter about `left-pad`'s removal a few years ago, and that's often the cited example for keeping track of dependencies, explicit and transitive. However, it is important to record other similar incidents to improve the integrity of dependency graphs across ecosystems.
 
+If the details of an incident or policy are incorrect or outdated, please open an issue or a pull request!
+
 ## Incidents
 
 These are examples of packages being unavailable that have occurred already.
