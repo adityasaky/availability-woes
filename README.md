@@ -30,7 +30,7 @@ TODO: these are studies of how popular package repositories handle package yanki
 | --------- | ------ |
 | Python Packaging Index (PyPI) | [Report](repository-policies/pypi.md) |
 | NPM | [Report](repository-policies/npm.md) |
-| crates.io | [Report](#) |
+| Cargo | [Report](repository-policies/cargo.md) |
 | Go Modules | [Report](#) |
 
 ## Unavailable, but not Dependencies
