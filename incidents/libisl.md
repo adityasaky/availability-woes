@@ -11,5 +11,5 @@ The reason neither GCC nor LLVM broke because of the unavailability of the packa
 1. Official Website: https://libisl.sourceforge.io/, archived at https://archive.is/mwQmt
 2. Mailing List thread detailing infrastructure being down: https://groups.google.com/g/isl-development/c/JGaMo2VUu_8, archived at https://archive.is/Qk7yN
 3. GCC copy of library: https://gcc.gnu.org/pub/gcc/infrastructure/, archived at https://archive.is/oAoUL
-4. GCC script to fetch library: https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=contrib/download_prerequisites;h=11c283ecb1aab88958915cff65109ddd5801a9e1;hb=HEAD#l33
-5. LLVM vendored copy of library source: https://github.com/llvm/llvm-project/tree/722a2fb7f9a3f7deea81276213c6a2a48a0827cd/polly/lib/External/isl
+4. GCC script to fetch library: https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=contrib/download_prerequisites;h=11c283ecb1aab88958915cff65109ddd5801a9e1;hb=HEAD#l33, archived at https://archive.md/aTiHS
+5. LLVM vendored copy of library source: https://github.com/llvm/llvm-project/tree/722a2fb7f9a3f7deea81276213c6a2a48a0827cd/polly/lib/External/isl, archived at https://archive.md/EZ0em
