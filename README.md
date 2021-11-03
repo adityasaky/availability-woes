@@ -15,6 +15,7 @@ These are examples of packages being unavailable that have occurred already.
 | left-pad | [Report](incidents/left-pad.md) |
 | mimemagic | [Report](incidents/mimemagic.md) |
 | Integer Set Library | [Report](incidents/libisl.md) |
+| chef-api, chef-sugar, community-zero, stove | [Report](incidents/chef.md) |
 
 ## Things to Watch
 
