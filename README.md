@@ -16,6 +16,7 @@ These are examples of packages being unavailable that have occurred already.
 | mimemagic | [Report](incidents/mimemagic.md) |
 | Integer Set Library | [Report](incidents/libisl.md) |
 | chef-api, chef-sugar, community-zero, stove | [Report](incidents/chef.md) |
+| go-bindata | [Report](incidents/go-bindata.md) |
 
 ## Things to Watch
 
