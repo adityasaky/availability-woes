@@ -53,3 +53,7 @@ These are incidents where there _weren't_ dependencies unavailable causing build
 ## Contributing
 
 Please open an issue or a pull request if any of the summaries here are incorrect or outdated. Also, please open pull requests if you'd like to submit an incident not listed here, or if there's an ecosystem that should be studied in the context of potential for availability issues.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
